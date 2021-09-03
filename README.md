@@ -56,5 +56,5 @@ Follow the instructions in the email we sent you.
 4. In the lower left pane click on `Terminal`.
 5. Type `git` and hit Enter.
 6. If you get an overview of the usage of `git` and several `git` commands, everything worked fine and you are all set for Week 01. 
-7. If you don't see what is described under 6. please email us ([Oliver](mailto:orittman@uni-mannheim.de), [Viktoriia](mailto:semenova@uni-mannheim.de), or [David](mailto:david.martin.grundmanns@gess.uni-mannheim.de)) or send us a DM in Slack as soon as possible!
+7. If you don't see what is described under 6. please email us ([Oliver](mailto:orittman@uni-mannheim.de), [Viktoriia](mailto:semenova@uni-mannheim.de), or [David](mailto:david.martin.grundmanns@gess.uni-mannheim.de))!
 
