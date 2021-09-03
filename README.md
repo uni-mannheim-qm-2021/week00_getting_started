@@ -35,7 +35,7 @@ Here is how you set it all up.
 
 ## How to Install RStudio
 
-1. Go to [www.rstudio.com](www.rstudio.com) and click on the *Download* button on the top bar.
+1. Go to [www.rstudio.com](https://www.rstudio.com) and click on the *Download* button on the top bar.
 2. Scroll down and click on the *Download* button for the free RStudio Desktop version.
 3. Download the latest version (1.4.1717) for your operating system:
     - Windows users: Click on the button *Download RStudio for Windows*. The file should have a  `.exe` extension. 
